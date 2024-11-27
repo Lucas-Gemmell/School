@@ -14,5 +14,4 @@ document.addEventListener("DOMContentLoaded", function () {
     butt.innerHTML = `
         <button class="conclustion-button">Conclusion</button>
     `
-    col.appendChild(butt)
 })
